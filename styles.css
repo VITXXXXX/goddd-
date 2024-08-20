@@ -1,0 +1,20 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+iframe{
+    border-radius: 8mm;
+}
+header{
+    color: red;
+}
+h1{
+    color: red;
+    font-family: md;
+    font-size: 100px;
+}
+
+h3{
+    color: yellow;
+}
